@@ -1,0 +1,9 @@
+Add-ons for Firefox Extensions IDN Navbar
+
+IDN Navbar 0.0.1
+
+
+The IDN (International Domain Name) Navbar add-on provides address bar support for all IDN's, including '.com', '.net' and '.eu'. An 'IDN' address bar icon will be visible when this add-on has decoded a Punycode URL to it's IDN.
+
+
+https://addons.mozilla.org/en-US/firefox/addon/idn-navbar/
