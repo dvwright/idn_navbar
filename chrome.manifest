@@ -1,0 +1,4 @@
+content idn_navbar      chrome/content/idn_navbar/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://idn_navbar/content/idn_navbar.xul
+locale  idn_navbar  en-US   locale/en-US/
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://idn_navbar/content/idn_navbar.css" type="text/css"?> 
+
+<overlay id='idn_navbar'
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <!--
+  <script type="application/javascript" src="chrome://idn_navbar/content/idn_navbar.js"/>
+  <script type="application/javascript"
+  src="chrome://idn_navbar/content/idn_navbar/idn_navbar.js"/>
+  -->
+  <script type="application/x-javascript" src="idn_navbar.js;version=1.8"/>
+
+  <!--
+  <script src="idn_navbar.js"/>
+
+  <script type="application/x-javascript"><![CDATA[
+    alert('idn_navbar');
+    dump('idn_navbar');
+  ]]></script>
+  -->
+
+</overlay>
